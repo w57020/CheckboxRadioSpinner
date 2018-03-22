@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 if (view.getId() == R.id.rbOpcja1) {
                     wartosc = "wybrano Opcje 1";
                 } else if (view.getId() == R.id.rbOpcja2) {
-                    wartosc = "click";
+                    wartosc = "Wybrano opcje 2";
                 }
 
 
